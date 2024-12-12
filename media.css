@@ -1,0 +1,342 @@
+@media (max-width: 1132px) {
+    .one_right_block_left{
+        margin-right: 0px;
+    }
+}
+
+@media (max-width: 966px) {
+    .one_right_block_right{
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 928px) {
+    .nav_btn{
+        display: none;
+    }
+
+    .hed_block_one_flex p{
+        display: none;
+    }
+
+    .one_content_left{
+        display: none;
+    }
+
+    .burger{
+        display: block;
+        
+    }
+
+    .btn_burger img{
+        width: 30px;
+    }
+}
+
+@media (max-width: 606px) {
+    .one_right_block_left h2{
+        font-size: 36px;
+    }
+
+    .one_right_block_right{
+        text-align: center;
+    }
+
+    .one_right_block_right img{
+        width: 70%;
+    }
+}
+
+@media (max-width: 520px) {
+    .nav_search input{
+        width: 170px;
+        font-size: 13px;
+    }
+
+    nav h1{
+        font-size: 16px;
+    }
+
+    .nav_search a img{
+        width: 25px;
+    }
+
+    .hed_block_one_flex a{
+        font-size: 16px;
+    }
+
+    .one_content_right {
+        width: 100%;
+    }
+
+    .one_content_right{
+        margin-left: 0px;
+    }
+
+    .one_content_all{
+        justify-content: center;
+    }
+
+    .love{
+        display: none;
+    }
+
+    .nav_seacrh_btn_r{
+        display: none;
+    }
+}
+
+@media (max-width: 432px) {
+    .nav_search input{
+        width: 120px;
+        font-size: 9px;
+    }
+
+    nav h1{
+        font-size: 16px;
+    }
+
+    .nav_search a img{
+        width: 25px;
+    }
+
+    .hed_block_one_flex a{
+        font-size: 16px;
+    }
+}
+
+/* block_two */
+
+@media (max-width: 1033px) {
+    .content_item{
+        width: 40%;
+        margin: 10px;
+    }
+}
+
+@media (max-width: 703px) {
+    .content_item{
+        width: 100%;
+        margin: 10px;
+    }
+}
+
+@media (max-width: 601px) {
+    .time_all{
+        margin-left: 0px;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .title_item{
+        flex-wrap: wrap;
+    }
+    .time_item p{
+        margin: 0px;
+    }
+    
+}
+
+
+/* block_three */
+
+@media (max-width: 1033px) {
+    .three_item{
+        width: 30%;
+        margin: 10px;
+    }
+    
+}
+
+
+@media (max-width: 703px) {
+    .three_item{
+        width: 40%;
+    }
+
+    .three_all {
+        justify-content: center;
+    }
+}
+
+
+@media (max-width: 455px) {
+    .three_item{
+        width: 100%;
+    }
+
+    .title_item h2{
+        font-size: 20px;
+    }
+
+    .flex{
+        flex-wrap: wrap;
+    }
+
+    .product_btn{
+        margin-top: 50px;
+    }
+
+    
+}
+
+
+
+/* block_four */
+
+@media (max-width: 1409px) {
+    .four_item img{
+        width: 100%;
+    }
+
+    .four_item{
+        margin: 10px;
+    }
+
+    
+}
+
+
+@media (max-width: 1253px) {
+    .four_item h2{
+        font-size: 30px;
+    }
+
+    
+}
+
+
+@media (max-width: 726px) {
+    .boombox{
+        display: none;
+    }
+
+    .four_all{
+        justify-content: center;
+    }
+
+    
+}
+
+/* block_five */
+
+
+@media (max-width: 969px) {
+    .five_all{
+        flex-wrap: wrap;
+    }
+
+    .five_left{
+        margin: 10px;
+    }
+
+    .five_right{
+        margin-left: 0;
+    }
+    
+}
+
+
+@media (max-width: 882px) {
+    .five_r_all {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .five_left{
+        margin: 10px 0;
+    }
+    .five_left{
+        width: 100%;
+    }
+
+    .five_r_one{
+        width: 100%;
+    }
+
+    .five_right{
+        width: 100%;
+    }
+
+    
+
+
+    .five_r_two{
+        margin: 0px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .five_r_three{
+        width: 100%;
+    }
+}
+
+
+/* block_six */
+
+@media (max-width: 1231px) {
+    .six_all{
+        flex-wrap: wrap;
+    }
+    
+}
+
+
+@media (max-width: 963px) {
+    .six_item{
+        width: 100%;
+    }
+
+    .six_all{
+        padding-top: 150px;
+    }
+    
+}
+
+
+/* footer */
+
+
+@media (max-width: 1229px) {
+    .footer_item {
+        width: 30%;
+    }
+    
+}
+
+
+
+@media (max-width: 837px) {
+    .f_send{
+        display: none;
+    }
+    
+
+}
+
+
+@media (max-width: 737px) {
+    .footer_item{
+        width: 35%;
+        margin: 10px;
+    }
+
+    
+}
+
+
+@media (max-width: 511px) {
+    
+    .footer_item{
+        width: 50%;
+        margin: 10px;
+    }
+
+    .footer_all{
+        justify-content: center;
+    }
+    
+}
+
