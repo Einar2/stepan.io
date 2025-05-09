@@ -1,0 +1,10 @@
+1. на каждой странице js элементы
+* main - slider + modal window
+* catalog - slider img + modal window
+* cart - form + modal window
+
+
+
+
+
+** сроки до 6.06.25

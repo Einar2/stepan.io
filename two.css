@@ -1,0 +1,66 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.main a{
+    color: #fff;
+    background-color: red;
+    text-decoration: none;
+    padding: 16px 48px;
+    border-radius: 5px;
+}
+
+
+.rebenok{
+    width: 300px;
+    height: 400px;
+    margin: 10px;
+
+    
+    cursor: pointer;
+}
+
+
+.img{
+    display: block;
+    margin: 0 auto; /*Один из способов центрировать элемент по горизонтали*/
+}
+
+
+.block{
+    display: flex;
+    justify-content: center;
+}
+
+
+.rebenok a{
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    opacity: 0;
+    transition: all ease .5s;
+}
+
+.rebenok:hover .btn{
+    opacity: 1;
+}
+
+
+.one{
+    color: red;
+}
+
+.two{
+    color: rgb(64, 64, 64);
+    text-decoration: line-through;
+}
